@@ -1,0 +1,63 @@
+.background-web {
+    position: absolute;
+    background: repeating-linear-gradient(140deg, var(--token-ce8f8173-7602-47ce-961c-f0cc87b484d3, rgb(237, 238, 241)), var(--token-ce8f8173-7602-47ce-961c-f0cc87b484d3, rgb(237, 238, 241)) 1px, transparent 1px, transparent 6px);
+    width: 100%;
+    height: 100%;
+    z-index: -10000;
+}
+
+.bx-nav {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+.bx-container-nav {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.content-bx-container-nv {
+    display: flex;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 56px;
+    justify-content: space-between;
+    padding: 16px;
+    position: relative;
+    width: 100%;
+}
+
+.bx-img-logo {
+    display: flex;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+.gmail-txt {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.gmail-txt h6 {
+    font-family: 'Satoshi', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #61646b;
+    text-decoration: none;
+}
+
+.gmail-txt h6:hover {
+    color: #000;
+    text-decoration: underline;
+    text-decoration-color: #121218;
+    cursor: pointer;
+}
+
