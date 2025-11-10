@@ -1,9 +1,14 @@
+body {
+    overflow-y: scroll;
+}
+
 .background-web {
     position: absolute;
     background: repeating-linear-gradient(140deg, var(--token-ce8f8173-7602-47ce-961c-f0cc87b484d3, rgb(237, 238, 241)), var(--token-ce8f8173-7602-47ce-961c-f0cc87b484d3, rgb(237, 238, 241)) 1px, transparent 1px, transparent 6px);
     width: 100%;
     height: 100%;
     z-index: -10000;
+    opacity: 0.5;
 }
 
 .bx-nav {
