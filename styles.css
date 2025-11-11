@@ -11,6 +11,13 @@ body {
     opacity: 0.5;
 }
 
+.content-all-box {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .bx-nav {
     position: relative;
     display: flex;
@@ -64,5 +71,9 @@ body {
     text-decoration: underline;
     text-decoration-color: #121218;
     cursor: pointer;
+}
+
+.header-cta {
+    display: none;
 }
 
