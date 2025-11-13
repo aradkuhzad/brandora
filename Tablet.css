@@ -3,6 +3,11 @@
         display: block;
     }
 
+    .content-bx-container-nv {
+        padding: 24px;
+        gap: 24px;
+        height: 84px;
+    }
 
     .content-all-box {
         justify-content: flex-start;
