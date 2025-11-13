@@ -83,3 +83,22 @@ body {
     display: none;
 }
 
+.content-all-section-tw {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 100%;
+    flex-wrap: nowrap;
+    padding: 64px 16px;
+}
+
+.box-user-sntw {
+    display: flex;
+    width: 270px;
+    height: 24px;
+    background-color: red;
+    padding: 2px 2px 2px 10px;
+    border-radius: 999px;
+    border: 1px solid #e0e2e6;
+}
+
