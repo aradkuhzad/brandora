@@ -2,4 +2,10 @@
     .header-cta {
         display: block;
     }
+
+
+    .content-all-box {
+        justify-content: flex-start;
+        gap: 16px;
+    }
 }
