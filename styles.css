@@ -52,6 +52,9 @@ body {
     cursor: pointer;
     object-fit: cover;
 }
+
+.bx-img-logo {
+    object-fit: cover;
 }
 
 .gmail-txt {
