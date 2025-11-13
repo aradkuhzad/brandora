@@ -4,13 +4,19 @@
     }
 
     .content-bx-container-nv {
-        padding: 24px;
+        padding: 24px 24px 24px 24px;
         gap: 24px;
         height: 84px;
+        max-width: 920px;
     }
 
     .content-all-box {
         justify-content: flex-start;
         gap: 16px;
+    }
+
+    .header-cta {
+        display: flex;
+        align-items: center;
     }
 }
