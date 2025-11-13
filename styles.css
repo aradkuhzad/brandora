@@ -83,6 +83,13 @@ body {
     display: none;
 }
 
+.section-tw {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
 .content-all-section-tw {
     display: flex;
     justify-content: flex-start;
