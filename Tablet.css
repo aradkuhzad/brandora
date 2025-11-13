@@ -15,6 +15,18 @@
         gap: 16px;
     }
 
+    .btn__text {
+        position: relative;
+        display: flex;
+        font-size: 14px;
+        font-family: 'Satoshi', sans-serif;
+        font-weight: 500;
+        white-space: nowrap;
+        color: #ffffff;
+        line-height: 20px;
+        object-fit: cover;
+    }
+
     .header-cta {
         display: flex;
         align-items: center;
