@@ -1,0 +1,10 @@
+@media (min-width: 1199px) {
+    .content-box-video-sntwdn {
+        height: 612px;
+    }
+
+    .content-all-section-tw {
+        padding: 96px 24px;
+        gap: 64px;
+    } 
+}
