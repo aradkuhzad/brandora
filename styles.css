@@ -210,6 +210,22 @@ body {
     border-radius: 50%;
     flex-shrink: 0;   
 }
+
+.box-large-text-bxsntw {
+    display: inline-block;
+    width: 100%;
+    max-width: 560px;
+    word-break: break-word;
+    word-wrap: break-word;
+}
+
+.all-text-bxsntw {
+    text-align: left;
+    color: rgb(18, 18, 24);
+    font-family: 'Satoshi', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
 }
 
 .text-bxsntw-gysc {
