@@ -57,4 +57,16 @@
         max-width: 920px;
         width: 100%;
     }
+
+    .text-bxsntw-gysc {
+        font-size: 60px;
+        line-height: 72px;
+    }
+
+    .all-text-bxsntw {
+        font-size: 60px;
+        line-height: 72px;
+    }
+
+
 }
