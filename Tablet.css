@@ -45,4 +45,16 @@
         display: flex;
         align-items: center;
     }
+
+    .content-all-section-tw {
+        padding: 96px 24px;
+        max-width: 1200px;
+        align-items: center;
+    } 
+
+    .content-all-section-twup {
+        padding: 0px 24px;
+        max-width: 920px;
+        width: 100%;
+    }
 }
