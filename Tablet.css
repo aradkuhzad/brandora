@@ -48,6 +48,7 @@
 
     .content-all-section-tw {
         padding: 96px 24px;
+        gap: 96px;
         max-width: 1200px;
         align-items: center;
     } 
@@ -79,6 +80,8 @@
 
 
 
+
+
 .text-bxsntwdn {
     direction: ltr;
     unicode-bidi: embed;
@@ -86,6 +89,10 @@
 
 .box-button-twdownsntw {
     width: max-content;
+}
+
+.content-box-video-sntwdn {
+    height: 452px;
 }
 
 
