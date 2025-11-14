@@ -107,5 +107,54 @@ body {
     padding: 2px 2px 2px 10px;
     border-radius: 999px;
     border: 1px solid #e0e2e6;
+
+.avatar-1 {
+    display: flex;
+    width: 32px;
+    height: 32px;
+    border: 2px solid rgb(224, 226, 230);
+    border-radius: 99px;
+    margin-left: -10px;
+    z-index: 10;
 }
+
+.avatar-1 img {
+    border-radius: 99px;
+    width: 30px;
+    height: 30px;
+}
+
+
+.avatar-2 {
+    display: block;
+    width: 32px;
+    height: 32px;
+    border: 2px solid rgb(224, 226, 230);
+    border-radius: 99px;
+    margin-left: -10px;
+    z-index: 9;
+}
+
+.avatar-2 img {
+    border-radius: 99px;
+    width: 30px;
+    height: 30px;
+}
+
+
+.avatar-3 {
+    display: flex;
+    width: 32px;
+    height: 32px;
+    border: 1px solid rgb(224, 226, 230);
+    border-radius: 99px;
+    z-index: 8;
+}
+
+.avatar-3 img {
+    border-radius: 99px;
+    width: 30px;
+    height: 30px;
+}
+
 
