@@ -109,7 +109,27 @@ body {
     background-color: #ffffff;
     box-sizing: border-box;
 }
+.text-rgb-ussntw {
+    display: flex;
+    font-family: 'Satoshi', sans-serif;
+    font-size: 14px;
+    background-image: linear-gradient(271deg, var(--token-20a49933-6f9b-447c-9d41-5ad6db603669, rgb(134, 36, 255)) 0%, var(--token-7589292a-359e-4464-aae1-c210983aa6e6, rgb(255, 101, 36)) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 20px;
+    font-weight: 500;
+    font-family: 'Satoshi', sans-serif;
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
 
+.avatars {
+    display: flex;
+    width: 100%;
+    height: 100%;
+
+}
 
 
 .avatar-1 {
