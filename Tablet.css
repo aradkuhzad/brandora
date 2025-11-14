@@ -70,6 +70,21 @@
     }
 
 
+.content-all-section-twdown {
+    justify-content: flex-end;
+    flex-direction: row;
+    direction: rtl;
+    gap: 24px;
+}
+
+.box-small-text-bxsntwdn {
+}
+
+.text-bxsntwdn {
+    direction: ltr;
+    unicode-bidi: embed;
+}
+
 .box-button-twdownsntw {
     width: max-content;
 }
