@@ -109,6 +109,23 @@ body {
     background-color: #ffffff;
     box-sizing: border-box;
 }
+
+.content-box-user-sntw {
+  display: flex;  
+  gap: 8px;
+}
+
+.content-box-txrgb-txuss {
+    display: flex;
+    gap: 3px;
+}
+
+.box-text-rgb-ussntw {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .text-rgb-ussntw {
     display: flex;
     font-family: 'Satoshi', sans-serif;
@@ -123,6 +140,8 @@ body {
     font-size: 14px;
     font-weight: 500;
 }
+
+
 
 .avatars {
     display: flex;
