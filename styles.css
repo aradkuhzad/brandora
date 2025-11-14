@@ -210,5 +210,20 @@ body {
     border-radius: 50%;
     flex-shrink: 0;   
 }
+}
+
+.text-bxsntw-gysc {
+    color: rgb(148, 151, 158);
+    font-family: 'Satoshi', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+}
+
+.content-up-bxsn {
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+}
 
 
